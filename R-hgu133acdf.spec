@@ -11,8 +11,9 @@ URL:              http://bioconductor.org/packages/release/data/annotation/html/
 Source0:          http://bioconductor.org/packages/release/data/annotation/src/contrib/%{packname}_%{version}.tar.gz
 BuildArch:        noarch
 Requires:         R-core
-Requires:         R-utils R-AnnotationDbi 
-BuildRequires:    R-devel Rmath-devel texlive-collection-latex R-utils R-AnnotationDbi
+Requires:         R-utils R-AnnotationDbi
+BuildRequires:    R-devel Rmath-devel texlive-collection-latex
+BuildRequires:    R-utils R-AnnotationDbi
 
 %description
 A package containing an environment representing the HG-U133A.cdf file.
