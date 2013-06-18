@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          2.9.1
-Release:          1
+Release:          2
 Summary:          hgu133acdf
 Group:            Sciences/Mathematics
 License:          LGPL
