@@ -7,7 +7,7 @@ Release:          1
 Summary:          hgu133acdf
 Group:            Sciences/Mathematics
 License:          LGPL
-URL:              http://bioconductor.org/packages/release/data/annotation/html/%{packname}.html
+URL:              https://bioconductor.org/packages/release/data/annotation/html/%{packname}.html
 Source0:          http://bioconductor.org/packages/release/data/annotation/src/contrib/hgu133acdf_2.12.0.tar.gz
 BuildArch:        noarch
 Requires:         R-core
